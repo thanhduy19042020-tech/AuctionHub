@@ -14,14 +14,8 @@
 - [Green] "Hãy cho tôi bộ dữ liệu đầu vào để kiểm thử"
 - [Green] "Giải thích hàm quickSortWrapper"
 - [Yellow] "File báo lỗi: 'C:\Users\Dell\OneDrive\Desktop\DSA\auctionhub.exe' is not recognized as the name of a 
-cmdlet, function, script file, or operable program. Check the spelling of the name, or if a path was 
-included, verify that the path is correct and try again.
-At line:1 char:3
-+ & C:\Users\Dell\OneDrive\Desktop\DSA\auctionhub.exe
-+   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-    + CategoryInfo          : ObjectNotFound: (C:\Users\Dell\O...\auctionhub.exe:String) [], CommandNotF 
-   oundException
-    + FullyQualifiedErrorId : CommandNotFoundException', hướng dẫn cách sửa"
+cmdlet, function, script file, or operable program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again. At line:1 char:3 & C:\Users\Dell\OneDrive\Desktop\DSA\auctionhub.exe...', hướng dẫn cách sửa"
+    
 5.Độ phức tạp trường hợp xấu nhất của Quick Sort(Median-of-three):
 - Độ phức tạp của quick sort có thể đạt O(n^2) vì đối với một số dạng dữ liệu đặc biệt, chẳng hạn tập dữ liệu chứa nhiều phần tử có giá trị bằng nhau khi sử dụng phương pháp phân hoạch không phù hợp, thuật toán có thể liên tục tạo ra các phần mảng mất cân bằng. Khi đó, một phần có thể chứa gần như toàn bộ phần tử, trong khi phần còn lại chỉ chứa rất ít hoặc không có phần tử nào.
 
